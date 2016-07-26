@@ -1,0 +1,4 @@
+.header {
+  composes: header from 'include-2.css';
+  margin-bottom: 1rem;
+}
