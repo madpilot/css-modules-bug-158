@@ -1,3 +1,7 @@
 .header {
   composes: header from 'include-1.css';
 }
+
+.footer {
+  composes: footer from 'include-2.css';
+}
